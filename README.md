@@ -4,9 +4,9 @@
 
 Runs entirely in the browser. No server, no account, no data leaves the device.
 
-**Live demo:** https://srijanupadhyay-dotcom.github.io/p2p-control-testing-engine/ (fictional demo data)
+**Live demo:** https://srijanupadhyay-dotcom.github.io/p2p-control-testing-engine/ (built-in fictional demo data, or upload your own extracts)
 
-> **Licence: source-available, all rights reserved.** You may read this code and try the official hosted demo. Any other use, including running your own copy, using it with real data, modifying it or using it commercially, needs prior written permission from Srijan Upadhyay. See [LICENSE](LICENSE) and [How to get permission](#permission).
+> **Licence: source-available, all rights reserved.** You may read this code and use the official hosted version to evaluate it, with the demo data or your own data (processed only in your browser). Running your own copy, client or commercial use, and copying or modifying the code need prior written permission from Srijan Upadhyay. See [LICENSE](LICENSE) and [How to get permission](#permission).
 
 > **Status:** v1.0 prototype, built as a self-learning project. The demo dataset is fictional (Sabarmati Autoparts Ltd, FY 2023-24). Results are rule-based exceptions for an auditor to review, not audit opinions.
 
@@ -60,7 +60,7 @@ npm run build   # → dist/index.html (single self-contained file)
 npm run demo    # regenerate data/demo/*.csv and templates/*.csv
 ```
 
-**Use your own data** (with permission): download the templates from the Data intake screen (or `templates/`), export the matching reports from SAP (or any ERP) into CSV/XLSX, and drop them in. Column names do not need to match exactly; mapping can be corrected on screen.
+**Use your own data** (free for evaluation on the hosted version): download the templates from the Data intake screen (or `templates/`), export the matching reports from SAP (or any ERP) into CSV/XLSX, and drop them in. Column names do not need to match exactly; mapping can be corrected on screen.
 
 ## Repository layout
 
@@ -109,7 +109,7 @@ Copyright © 2026 Srijan Upadhyay. **All rights reserved.** This is source-avail
 | Without permission | Needs written permission |
 |---|---|
 | Read the code in this repository | Run, install or host your own copy |
-| Try the official hosted demo with its fictional data | Use it with your own, your employer's or a client's data |
+| Evaluate it on the official hosted version, with demo data or your own data | Use it in client engagements, paid services or audit opinions |
 | | Copy, modify, or reuse the rules, scoring model or methodology |
 | | Distribute it, offer it as a service, or use it commercially |
 
