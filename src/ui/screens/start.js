@@ -69,7 +69,7 @@ export function Start({ st, a }) {
       </section>
     </main>
     <footer style="border-top:1px solid var(--line)"><div class="wrap" style="padding-top:16px;padding-bottom:16px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:8px;font-size:12px;color:var(--muted)">
-      <span>© 2026 Srijan Upadhyay · all rights reserved · use beyond this demo needs permission · demo data is fictional</span>
+      <span>© 2026 Srijan Upadhyay · all rights reserved · free to evaluate here, with demo or your own data · client or commercial use needs permission · demo data is fictional</span>
       <span>A prototype, not a substitute for professional audit judgement</span>
     </div></footer>
   </div>`;
