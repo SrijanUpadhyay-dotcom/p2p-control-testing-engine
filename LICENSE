@@ -1,0 +1,50 @@
+P2P Control Testing Engine
+Copyright (c) 2026 Srijan Upadhyay. All rights reserved.
+
+SOURCE-AVAILABLE LICENCE – PERMISSION REQUIRED
+
+This software, including its source code, rule library, scoring model, demo-data
+generator, documentation, designs and generated outputs (together, "the Software"),
+is the property of Srijan Upadhyay ("the Author"). It is made publicly visible so
+that it can be read and evaluated. It is NOT open-source software.
+
+1. What you may do without permission
+   (a) View and read the source code in the public repository where the Author
+       publishes it, as allowed by the terms of the hosting platform.
+   (b) Use the Author's official hosted demo, with the fictional demo dataset
+       supplied in it, only to evaluate what the Software does.
+
+2. What needs the Author's prior written permission
+   Every other use, including but not limited to:
+   (a) running, installing or hosting the Software or any copy of it;
+   (b) using the Software with your own, your employer's or any client's data;
+   (c) copying, downloading for use, modifying, translating or creating works
+       based on the Software, its rules, scoring model or methodology;
+   (d) distributing, sublicensing, selling, or making the Software available to
+       others, including as a hosted or network service;
+   (e) any commercial use, internal business use, or use in paid services;
+   (f) using the Software or its outputs to train or improve any AI or
+       machine-learning system.
+
+3. How to ask for permission
+   Contact the Author through the repository (open an issue titled
+   "Permission request") or on LinkedIn, stating who you are, how you intend to
+   use the Software and for how long. Permission is granted only in writing,
+   may be limited in scope, and may carry its own terms or fees.
+
+4. Third-party components
+   The Software includes open-source components that remain under their own
+   licences (see THIRD_PARTY_NOTICES.md). Nothing in this licence limits your
+   rights in those components.
+
+5. No warranty and no professional advice
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT.
+   Results are rule-based exceptions for review by a qualified person; they are
+   not audit, legal, tax or accounting advice. IN NO EVENT SHALL THE AUTHOR BE
+   LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE SOFTWARE OR
+   ITS USE.
+
+6. Termination
+   Any use outside sections 1 and 2 without permission ends any rights you have
+   under this licence. All rights not expressly granted are reserved.

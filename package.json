@@ -1,0 +1,42 @@
+{
+  "name": "p2p-control-testing-engine",
+  "version": "1.0.1",
+  "description": "Source-available procure-to-pay control testing engine: full-population tests from a P2P risk and control matrix, exception review workflow and audit-ready exports. Runs entirely in the browser.",
+  "main": "src/engine/index.js",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs",
+    "demo": "node scripts/gen-demo.mjs",
+    "start": "node scripts/build.mjs && echo Open dist/index.html in a browser"
+  },
+  "keywords": [
+    "internal-audit",
+    "internal-controls",
+    "procure-to-pay",
+    "p2p",
+    "rcm",
+    "sox",
+    "ifc",
+    "continuous-controls-monitoring",
+    "sap",
+    "audit-analytics",
+    "india",
+    "gst",
+    "msme"
+  ],
+  "author": "Srijan Upadhyay",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "fflate": "^0.8.3",
+    "htm": "^3.1.1",
+    "preact": "^11.2.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "private": true
+}
