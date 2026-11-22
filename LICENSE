@@ -11,18 +11,24 @@ that it can be read and evaluated. It is NOT open-source software.
 1. What you may do without permission
    (a) View and read the source code in the public repository where the Author
        publishes it, as allowed by the terms of the hosting platform.
-   (b) Use the Author's official hosted demo, with the fictional demo dataset
-       supplied in it, only to evaluate what the Software does.
+   (b) Use the Author's official hosted version (the live demo link published
+       by the Author) to evaluate the Software, either with the fictional demo
+       dataset supplied in it or with your own data or your organisation's
+       data, for non-commercial evaluation only. Your data is processed in
+       your browser; you are responsible for having the right to use it.
 
 2. What needs the Author's prior written permission
    Every other use, including but not limited to:
-   (a) running, installing or hosting the Software or any copy of it;
-   (b) using the Software with your own, your employer's or any client's data;
+   (a) running, installing or hosting the Software or any copy of it, other
+       than through the Author's official hosted version;
+   (b) using the Software or its outputs in client engagements, paid services
+       or any commercial work, or relying on it in a statutory or internal
+       audit opinion;
    (c) copying, downloading for use, modifying, translating or creating works
        based on the Software, its rules, scoring model or methodology;
    (d) distributing, sublicensing, selling, or making the Software available to
        others, including as a hosted or network service;
-   (e) any commercial use, internal business use, or use in paid services;
+   (e) any commercial use beyond the evaluation allowed in section 1(b);
    (f) using the Software or its outputs to train or improve any AI or
        machine-learning system.
 
